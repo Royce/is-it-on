@@ -1,0 +1,6 @@
+Create an API
+
+- https://github.com/swinarta/node-poc-api-server/blob/master/app/schemas/userSchema.js is an example
+- it uses passport http://passportjs.org/
+- it uses mongodb via mongoose
+- it uses restify
